@@ -196,7 +196,7 @@
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com" title="Visit w3schools">www.w3schools.com</a></p>
+  <p>Alerta Previdência <a href="http://www.boxme.com.br/index.php" title="Visit w3schools">www.alertaprevidencia.org</a></p>
 </footer>
 
 <script src="https://www.gstatic.com/firebasejs/5.4.0/firebase.js"></script>
