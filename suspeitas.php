@@ -67,10 +67,10 @@
     <div class="col-sm-4 col-xs-12">
       <div class=" panel-default2 text-center">
         <div class="panel-body">
-          <h3>Médio Gasto</h3>
+          <h3>Gasto Médio Meses Anteriores</h3>
         </div>
         <div class="panel-heading1">
-          <span id="iconDin2" class="glyphicon glyphicon-list-alt"></span>
+          <span id="iconDin2" class="glyphicon glyphicon-usd"></span>
           <h3>R$ 2.358.000</h3>
         </div>
         <div class="panel-footer">
@@ -142,7 +142,7 @@
     <div class="col-sm-4 col-xs-12">
       <div class="panel-default2 text-center">
         <div class="panel-heading-tit3">            
-          <p>2016 - Quantidade Benefícios mês</p>
+          <p>2016 - Quantidade Benefícios Mês</p>
         </div>
         <div class="panel-footer">
           <ul class="list-group">
