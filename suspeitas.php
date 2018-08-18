@@ -16,16 +16,11 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
 
+<div class="jumbotron text-center margemTop bannerPrincipal">    
 
-<div class="jumbotron text-center margemTop bannerPrincipal">
-
-    <div class="alinhaCenterLogo">
-
-        <div>
-           <img src="img/logo.jpeg" class="img-responsive" alt="Cinque Terre"> 
-        </div>
-
-    </div>
+         <center class="margemLogo"> 
+              <img src="img/logo.png" class="img-responsive"> 
+        </center>    
 </div>
 
 <nav class="navbar navbar-default navbar-fixed-top topoPrincipal">
@@ -68,7 +63,7 @@
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
           <div class="panel-body">
-                <div class="row slideanim">
+                <div class="row">
     <div class="col-sm-4 col-xs-12">
       <div class=" panel-default2 text-center">
         <div class="panel-body">
@@ -129,7 +124,7 @@
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
           <div class="panel-body">
-                <div class="row slideanim">
+                <div class="row">
     <div class="col-sm-4 col-xs-12">
       <div class=" panel-default2 text-center">
         <div class="">

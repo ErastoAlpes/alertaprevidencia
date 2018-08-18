@@ -15,17 +15,11 @@
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
+<div class="jumbotron text-center margemTop bannerPrincipal">    
 
-
-<div class="jumbotron text-center margemTop bannerPrincipal">
-
-    <div class="alinhaCenterLogo">
-
-        <div>
-           <img src="img/logo.jpeg" class="img-responsive" alt="Cinque Terre"> 
-        </div>
-
-    </div>
+         <center class="margemLogo"> 
+              <img src="img/logo.png" class="img-responsive"> 
+        </center>    
 </div>
 
 <nav class="navbar navbar-default navbar-fixed-top topoPrincipal">
@@ -49,15 +43,14 @@
 
 <div class="row container-fluid painelForm">
   <div id="about" class="well">
-    <form action="/action_page.php">     
+    <form action="suspeitas.php"> 
         <div class="form-group">
           <label for="email">Tipo de Benefício</label>
           <select class="form-control" id="selTipoBeneficio">
           <option selected>Selecione o tipo de Benefício Previdenciário</option>
-          <option value="">Benefício 1</option>
-          <option value="">Benefício 1</option>
-          <option value="">Benefício 1</option>
-          <option value="">Benefício 1</option>
+          <option value="">Aposentadoria Rural Por Tempo de Serviço</option>
+          <option value="">Aposentadoria Urbana Por Invalidez</option>
+          <option value="">Aposentadoria Urbana Por Auxílio Doença</option>
           </select>
         </div>
  
@@ -152,7 +145,7 @@
 
     <div class="well"><h3>Gastos anuais com benefícios da previdência</h3></div>
 
-  <div class="row slideanim">
+  <div class="row ">
     <div class="col-sm-4 col-xs-12">
       <div class="panel panel-default text-center">
         <div class="panel-heading1">
@@ -162,8 +155,8 @@
           <h3>Benefícios recebidos</h3>
         </div>
         <div class="panel-footer">
-          <h3>1.200.578</h3>
-          <h4>Por mês</h4>
+          <h3>32.086</h3>
+          <h4>Ano</h4>
           <!-- <button class="btn btn-lg">Atualizar</button> -->
         </div>
       </div>      
@@ -177,8 +170,8 @@
           <h3>Gatos totais</h3>
         </div>
         <div class="panel-footer">
-          <h3>R$ 9.298,87</h3>
-          <h4>Por mês</h4>
+          <h3>R$ 28.208.000</h3>
+          <h4>Ano</h4>
           <!-- <button class="btn btn-lg">Sign Up</button> -->
         </div>
       </div>      
@@ -189,11 +182,11 @@
           <span id="iconDin" class="glyphicon glyphicon-user"></span>
         </div>
         <div class="panel-body">
-          <h3>Pessoas beneficiadas</h3>
+          <h3>Valor Médio do Benefício</h3>
         </div>
         <div class="panel-footer">
-          <h3>2.545.557</h3>
-          <h4>Pessoas com benefícios</h4>
+          <h3>R$ 879,14</h3>
+          <h4>Mês</h4>
         </div>
       </div>      
     </div>    
