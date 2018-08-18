@@ -68,7 +68,7 @@ body {
       font-style: normal;
   }
   .panel {
-      border: 1px solid #f4511e; 
+      border: 1px solid #808080; 
       border-radius:0 !important;
       transition: box-shadow 0.5s;
   }
@@ -79,16 +79,6 @@ body {
       border: 1px solid #f4511e;
       background-color: #fff !important;
       color: #f4511e;
-  }
-  .panel-heading {
-      color: #fff !important;
-      background-color: #f4511e !important;
-      padding: 25px;
-      border-bottom: 1px solid transparent;
-      border-top-left-radius: 0px;
-      border-top-right-radius: 0px;
-      border-bottom-left-radius: 0px;
-      border-bottom-right-radius: 0px;
   }
   .panel-footer {
       background-color: white !important;
@@ -182,4 +172,43 @@ body {
 
 .margemTop{margin-top: 0px;}
 
-#iconDin{font-size: 32px;}
+#iconDin{font-size: 60px;}
+
+.painelForm{margin-top: -60px;}
+
+.bannerPrincipal{background-color: #FFF;}
+
+.topoPrincipal{background-color: #191970;}
+
+.panel-heading1 {
+      color: #fff !important;
+      background-color: #191970 !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
+
+  .panel-heading2 {
+      color: #fff !important;
+      background-color: #006400 !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
+.panel-heading3 {
+      color: #fff !important;
+      background-color: #FF8C00 !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
+.textMes{ float: left; padding-left: 10px}
