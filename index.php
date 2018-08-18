@@ -105,7 +105,7 @@
           </select>
          </div>
       </div>
-      <button type="submit" class="btn btn-primary alignRight">Submit</button>
+      <button type="submit" class="btn btn-primary alignRight">Consultar</button>
       <span class="btn"></span>
     </form>
   </div>
@@ -127,25 +127,25 @@
         <div id="collapse1" class="panel-collapse collapse">
           <div class="panel-body">
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Jan</span> </div>
+                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 64.51%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="textMes">JAN - 2014</span> </div>
             </div>
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Fev</span></div>
+                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 80.37%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><span class="textMes">FEV - 2509</span></div>
             </div>
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Mar</span></div>
+                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 86.26%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><span class="textMes">MAR - 2693</span></div>
             </div>
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Abr</span></div>
+                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 93.66%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">ABR - 2924</span></div>
             </div>
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Mai</span></div>
+                <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" style="width: 99.65%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">MAI - 3111</span></div>
             </div>
             <div class="progress">
-                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">Jun</span></div>
+                <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 92.54%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><span class="textMes">JUN - 2889</span></div>
             </div>            
+            <a href="suspeitas.php" type="button" class="btn btn-success">Análise de Suspeitas </a>
           </div>
-          <button type="button" class="btn btn-success">Success</button>
         </div>
         </div>
     </div>
