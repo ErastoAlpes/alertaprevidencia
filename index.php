@@ -107,17 +107,17 @@
 <!-- Container (Pricing Section) -->
 <div id="pricing" class="container-fluid painelForm">
 
-    <div class="panel-group" id="accordion" style="margin-top: -50px;">
+    
       <div class="panel panel-default">
         <div class="panel-heading">
           <h4 class="panel-title">
             <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-              Quantidade de benefícios no semestre
+              Quantidade de Benefícios no Semestre
               <span class="glyphicon glyphicon-chevron-down">
             </a>
           </h4>
         </div>
-        <div id="collapse1" class="panel-collapse collapse">
+        <div id="collapse1" class="panel-collapse collapse in">
           <div class="panel-body">
             <div class="progress">
                 <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" style="width: 64.51%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><span class="textMes">JAN - 2014</span> </div>
@@ -141,9 +141,8 @@
           </div>
         </div>
         </div>
-    </div>
 
-    <div class="well"><h3>Gastos anuais com benefícios da previdência</h3></div>
+    <div class="well"><h3>Gastos Anuais com Benefícios da Previdência</h3></div>
 
   <div class="row ">
     <div class="col-sm-4 col-xs-12">
@@ -152,7 +151,7 @@
           <span id="iconDin" class="glyphicon glyphicon-list-alt"></span>
         </div>
         <div class="panel-body">
-          <h3>Benefícios recebidos</h3>
+          <h3>Quantidade de Benefícios Concedidos</h3>
         </div>
         <div class="panel-footer">
           <h3>32.086</h3>
@@ -167,7 +166,7 @@
           <span id="iconDin" class="glyphicon glyphicon-usd"></span>
         </div>
         <div class="panel-body">
-          <h3>Gatos totais</h3>
+          <h3>Gastos Totais</h3>
         </div>
         <div class="panel-footer">
           <h3>R$ 28.208.000</h3>
